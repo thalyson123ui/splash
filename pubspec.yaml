@@ -89,5 +89,8 @@ flutter:
   # see https://flutter.dev/to/font-from-package
 
 flutter:
+  uses-material-design: true
+
   assets:
     - assets/images/logo.png
+    - assets/images/splash_background.png
